@@ -1,10 +1,12 @@
 Git test line1
 line 2
 line 3
-line space
 
 line 4
-line 5
+line 5 modify line 7
 
 added line 6
 added line 7
+
+now add line 8
+and line 9
